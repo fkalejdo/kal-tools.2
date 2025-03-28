@@ -1,0 +1,4 @@
+paramiko==3.4.0
+    python-dotenv==1.0.1
+    dash==2.11.1
+    dash-bootstrap-components==1.4.1
